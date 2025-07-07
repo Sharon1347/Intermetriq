@@ -1,31 +1,31 @@
-# Intermetriq
-AI-powered interview platform for practicing technical questions with instant voice feedback using Vapi. Securely stores user profiles and interview results via Firebase. Built with Next.js, Tailwind CSS, and deployed on Vercel.
-InterMetric – AI-Powered Interview Practice Platform
-🚀 Live Demo Here
+Intermetriq – AI-Powered Interview Platform
+🚀 Live Demo
 
-InterMetric is an advanced interview preparation platform that leverages AI to help users sharpen their technical and coding interview skills. The platform offers mock assessments, instant voice-based feedback, and performance tracking to improve interview readiness effectively.
+Intermetriq is an advanced, AI-driven platform designed to help users strengthen their technical and coding interview skills. It offers mock assessments, instant voice-based feedback, and performance tracking to enhance interview readiness.
 
 📌 Key Features
-✅ AI-Powered Feedback via Vapi (Voice AI API):
-Users receive real-time, voice-driven feedback to simulate realistic interview conditions.
+✅ AI-Powered Voice Feedback (Vapi):
+Simulates real-world interviews by providing instant, voice-based feedback.
 
-✅ Technical & Coding Question Practice:
-Users can solve coding questions and technical challenges in a structured, supportive environment.
+✅ Technical & Coding Practice:
+Solve technical challenges and coding problems in a structured, supportive environment.
 
-✅ Real-Time Feedback:
-The platform evaluates and responds to answers on the spot, enhancing learning outcomes.
+✅ Real-Time Insights:
+Immediate feedback helps users learn and improve faster.
 
-✅ Secure Data Storage with Firebase:
+✅ Secure Firebase Integration:
 
 User authentication
 
-Storage of interview history and performance metrics
+Secure storage of interview history and performance data
 
-Feedback records securely managed via Firebase Authentication and Cloud Firestore.
+Feedback records managed via Firebase Authentication & Cloud Firestore.
 
-✅ Modern, Responsive Design:
-Built with Tailwind CSS for a clean, fast, and mobile-friendly interface.
+✅ Clean, Responsive Interface:
+Modern design with Tailwind CSS for fast, mobile-friendly access.
 
-✅ Seamless Deployment with Vercel:
-Ensures fast load times, continuous deployment, and global delivery.
+✅ Fast, Seamless Deployment:
+Deployed on Vercel for continuous delivery and global availability.
+
+Built with: Next.js • Tailwind CSS • Firebase • Vapi • Vercel
 
