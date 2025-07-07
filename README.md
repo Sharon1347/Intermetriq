@@ -1,5 +1,7 @@
 Intermetriq – AI-Powered Interview Platform
-🚀 Live Demo
+
+🚀 **[Live Demo Here](https://inter-metric-interview-platform.vercel.app/)**  
+
 
 Intermetriq is an advanced, AI-driven platform designed to help users strengthen their technical and coding interview skills. It offers mock assessments, instant voice-based feedback, and performance tracking to enhance interview readiness.
 
