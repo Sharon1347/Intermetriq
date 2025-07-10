@@ -29,22 +29,12 @@ Deployed on Vercel for continuous delivery and global availability.
 
 ## 📂 Project Structure
 
-intermetriq-ai-interview-platform/
-│
-├── 📂 public/ # Static assets and icons
-├── 📂 src/ # Source code (components, pages, utils, styles)
-├── 📂 screenshots/ # Screenshots for demo and documentation
-│ ├── dashboard-overview.png
-│ ├── feedback-section.png
-│ └── performance-analytics.png
-│
-├── firebase.json # Firebase configuration
-├── next.config.js # Next.js configuration
-├── package.json # Dependencies and project scripts
-└── README.md # Project documentation (this file)
-
-
----
+public/               — Static assets and icons  
+src/                  — Source code (components, pages, utils, styles)  
+screenshots/          — Screenshots for demo and documentation  
+next.config.js        — Next.js configuration  
+package.json          — Project dependencies and scripts  
+README.md             — Project documentation (this file)  
 
 ## 📸 Screenshots
 
