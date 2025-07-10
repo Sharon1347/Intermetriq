@@ -53,8 +53,26 @@ README.md             — Project documentation (this file)
 
 ---
 
-### 🔹 Vapi Analytics
+### 🔹 Analytics
 [Vapi Metrics](./screenshots/performance-analytics.png)
+
+---
+
+
+### 🔹 Feedback
+[Firebase](./screenshots/performance-analytics.png)
+
+---
+
+
+### 🔹 Users
+[Registered](./screenshots/performance-analytics.png)
+
+---
+
+
+### 🔹 Authentication
+[Sign-in ](./screenshots/performance-analytics.png)
 
 ---
 
