@@ -31,11 +31,11 @@ Deployed on Vercel for continuous delivery and global availability.
 
 public/               — Static assets and icons  
 src/                  — Source code (components, pages, utils, styles)  
-│   ├── app/          — Application pages and routing  
-│   ├── constants/    — Static constants and configuration data  
-│   ├── components/   — Reusable UI components  
-│   ├── lib/          — Utility functions and libraries  
-│   └── styles/       — Global stylesheets  
+   ├── app/          — Application pages and routing  
+   ├── constants/    — Static constants and configuration data  
+   ├── components/   — Reusable UI components  
+   ├── lib/          — Utility functions and libraries  
+   └── styles/       — Global stylesheets  
 screenshots/          — Screenshots for demo and documentation  
 next.config.js        — Next.js configuration  
 package.json          — Project dependencies and scripts  
