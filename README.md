@@ -48,13 +48,13 @@ README.md             — Project documentation (this file)
 
 ---
 
-### 🔹 AI-Powered Voice Feedback
-![AI Voice Feedback](./screenshots/feedback-section.png)
+### 🔹 AI-Powered Voice Workflow
+[Workflow](https://surli.cc/akjzof)
 
 ---
 
-### 🔹 Performance Analytics
-![Performance Analytics](./screenshots/performance-analytics.png)
+### 🔹 Vapi Analytics
+[Vapi Metrics](./screenshots/performance-analytics.png)
 
 ---
 
