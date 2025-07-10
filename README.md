@@ -44,7 +44,7 @@ README.md             — Project documentation (this file)
 ## 📸 Screenshots
 
 ### 🔹 Dashboard Overview
-![Dashboard Overview](./screenshots/dashboard-overview.png)
+![Dashboard](https://surli.cc/akjzof)
 
 ---
 
