@@ -49,30 +49,30 @@ README.md             — Project documentation (this file)
 ---
 
 ### 🔹 AI-Powered Voice Workflow
-[Workflow](https://surli.cc/akjzof)
+[Workflow](https://surl.li/jatxpp)
 
 ---
 
 ### 🔹 Analytics
-[Vapi Metrics](./screenshots/performance-analytics.png)
+[Vapi Metrics](https://surl.li/afowvv))
 
 ---
 
 
 ### 🔹 Feedback
-[Firebase](./screenshots/performance-analytics.png)
+[Firebase](https://surli.cc/bnmigt)
 
 ---
 
 
 ### 🔹 Users
-[Registered](./screenshots/performance-analytics.png)
+[Registered](https://surl.li/qmqgcd)
 
 ---
 
 
 ### 🔹 Authentication
-[Sign-in ](./screenshots/performance-analytics.png)
+[Sign-in ](https://surl.li/ckpdoy)
 
 ---
 
